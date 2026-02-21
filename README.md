@@ -1,4 +1,6 @@
 # ⬜ AI Face Changer
+<img width="1536" height="1024" alt="e6a24504-0426-41b9-9107-23308dd2dbe0" src="https://github.com/user-attachments/assets/9c2f4163-e2f7-47c8-9c33-a4ef215e4e2c" />
+<img width="348" height="60" alt="Screenshot_127" src="https://github.com/user-attachments/assets/1e7d3897-b50c-49f9-aec6-dc94afb713f6" />
 
 AI Face Changer is a powerful **AI-powered face swap and face editing software** built with advanced **deep learning**, **neural networks**, and **computer vision technology**. Easily swap faces in photos and videos with realistic, high-resolution results in seconds.
 
